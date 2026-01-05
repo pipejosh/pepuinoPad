@@ -1,0 +1,23 @@
+KIT Items,Description,Quantity,Unit Price ,Total Price ,URL
+blank keycaps,white ,80,"0,21","16,41",https://www.aliexpress.com/item/1576902211.html?invitationCode=WTdsQld1N3E0dCt6aUJSMk1HMGFwS3pRdVpSS2ZEbUpCQXpTeWNiYS9GdWVQemFTZUJrNWVWT0s1MU1hdTAyWg&srcSns=sns_Copy&spreadType=socialShare&social_params=21998300526&bizType=ProductDetail&spreadCode=WTdsQld1N3E0dCt6aUJSMk1HMGFwS3pRdVpSS2ZEbUpCQXpTeWNiYS9GdWVQemFTZUJrNWVWT0s1MU1hdTAyWg&aff_fcid=fc7fe6e8dfe6416393474d90287a145e-1765002889991-05671-_mMYwaOd&tt=MG&aff_fsk=_mMYwaOd&aff_platform=default&sk=_mMYwaOd&aff_trace_key=fc7fe6e8dfe6416393474d90287a145e-1765002889991-05671-_mMYwaOd&shareId=21998300526&businessType=ProductDetail&platform=AE&terminal_id=fde94912c73c48bdaf8f78c58fcc7623&afSmartRedirect=y&gatewayAdapt=4itemAdapt
+blank keycaps,green,20,"0,27","5,40",https://www.aliexpress.com/item/1005007484383179.html?spm=a2g0o.detail.0.0.7fc4QlPlQlPlQO&mp=1
+switches,mechanical switches,90,"0,20","18,11",https://www.aliexpress.com/item/1005009787231480.html?spm=a2g0o.detail.0.0.67adNrIhNrIhyD&mp=1
+diodes,smd diodes,100,"0,03","3,08",https://www.aliexpress.com/item/1005007160563285.html?spm=a2g0o.detail.0.0.7fc4QlPlQlPlQO&mp=1
+usb-c cable,usb-c,1,"3,31","3,31",https://www.aliexpress.com/item/1005005080440661.html?spm=a2g0o.detail.0.0.7275HudaHudawS&mp=1
+M2 standoff,M2 standoff 5mm,50,"0,05","2,5",https://www.aliexpress.com/item/1005008504707668.html?spm=a2g0o.detail.0.0.5fe4VqYfVqYfAJ&mp=1
+M2 screw,5mm screw,50,"0,03","1,60",https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.productlist.main.6.5ae95acdXyxAzO&algo_pvid=7b80bd85-60b3-451d-ab83-8cb025dd266f&pdp_ext_f=%7B%22order%22%3A%228711%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005070119421%7C_p_origin_prod%3A
+Led,sk6812,100,"0,07","6,98",https://www.aliexpress.com/item/1005005193716172.html?spm=a2g0o.cart.0.0.5b5d38daIIwypf&mp=1
+raspberry pico,raspberry pico usb-c,1,"3,27","3,27",https://www.aliexpress.com/item/1005006839247100.html?spm=a2g0o.cart.0.0.5b5d38daIIwypf&mp=1
+taxes,aliexpress tax,,,"4,28",
+,,,,,
+,,,,,
+,,,,,
+,,,Components,"64,94",
+,,,,,
+,,,,,
+CASE Items,Description,,,,
+,,,,,
+JLCPCB,Pepuino Pad PCB,"21,84",,,
+JLCPCB Shipping,Shipping for PCB + taxes,"16,87",,,
+,,,,,
+TOTAL,"103,65",,,,
