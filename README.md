@@ -17,7 +17,7 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 ![BOM](IMG/jlcpcbBOM.png) 
 ![BOM](IMG/aliexpressBOM.png) 
 
-## 📦 Components (KIT)
+## Components (KIT)
 
 | Item | Description | Quantity | Unit Price | Total Price | URL |
 |-----|------------|----------|------------|-------------|-----|
@@ -35,7 +35,7 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 
 ---
 
-## 🧩 Case / PCB
+## PCB
 
 | Item | Description | Price |
 |-----|------------|-------|
@@ -44,7 +44,7 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 
 ---
 
-## 💰 Total
+## Total
 
 | Description | Amount |
 |------------|--------|
