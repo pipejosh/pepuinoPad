@@ -1,0 +1,53 @@
+# Pepuino Pad
+
+This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination (the brightness can only be set to 30% ish) the pepuino pad is a midi compatible launchpad to make music, this project, the shematics and the pcb are made in kicad, and the case and render are made in fusion 360
+
+###  Shematic
+![schematic](IMG/schematic.png) 
+### pcb
+![pcb](IMG/pcb.png) 
+### case
+![case](IMG/case.png) 
+### render
+![render1](IMG/render1.png) 
+![render2](IMG/render2.png) 
+![render3](IMG/render3.png) 
+
+## BOM
+![BOM](IMG/jlcpcbBOM.png) 
+![BOM](IMG/aliexpressBOM.png) 
+
+## 📦 Components (KIT)
+
+| Item | Description | Quantity | Unit Price | Total Price | URL |
+|-----|------------|----------|------------|-------------|-----|
+| Blank keycaps | White | 90 | 0,13 | 11,81 | https://www.aliexpress.com/item/32842379355.html |
+| Blank keycaps | Green | 20 | 0,19 | 3,77 | https://www.aliexpress.com/item/1005006116865547.html |
+| Switches | Mechanical switches | 90 | 0,23 | 20,31 | https://www.aliexpress.com/item/1005009787231480.html |
+| Diodes | SMD diodes | 100 | 0,03 | 3,08 | https://www.aliexpress.com/item/1005007160563285.html |
+| M2 standoff | M2 standoff 5mm | 50 | 0,05 | 2,47 | https://www.aliexpress.com/item/1005008504707668.html |
+| M2 screw | 5mm screw | 50 | 0,03 | 1,65 | https://www.aliexpress.com/item/1005005070119421.html |
+| LED | SK6812 | 100 | 0,07 | 6,67 | https://www.aliexpress.com/item/1005005193716172.html |
+| Raspberry Pico | Raspberry Pico USB-C | 1 | 3,27 | 3,29 | https://www.aliexpress.com/item/1005006839247100.html |
+| Taxes | AliExpress tax | — | — | 4,28 | — |
+
+**Components Subtotal:** **57,33**
+
+---
+
+## 🧩 Case / PCB
+
+| Item | Description | Price |
+|-----|------------|-------|
+| JLCPCB | Pepuino Pad PCB | 21,84 |
+| JLCPCB Shipping | PCB shipping + taxes | 16,87 |
+
+---
+
+## 💰 Total
+
+| Description | Amount |
+|------------|--------|
+| **Grand Total** | **96,04** |
+
+
