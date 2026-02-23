@@ -10,8 +10,7 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 ![case](IMG/case.png) 
 ### render
 ![render1](IMG/render1.png) 
-![render2](IMG/render2.png) 
-![render3](IMG/render3.png) 
+![render2](IMG/render2.png)  
 
 ## BOM
 ![BOM](IMG/jlcpcbBOM.png) 
