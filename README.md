@@ -1,6 +1,6 @@
 # Pepuino Pad
 
-This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination (the brightness can only be set to 30% ish) the pepuino pad is a midi compatible launchpad to make music, this project, the shematics and the pcb are made in kicad, and the case and render are made in fusion 360
+This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination (the brightness can only be set to 30% ish) the pepuino pad is a midi compatible launchpad to make music, this project, the shematics and the pcb are made in kicad, and the case and render are made in fusion 360 and it uses the custom made pepuino nano V1 as the main microcontroler
 
 ###  Shematic
 ![schematic](IMG/schematic.png) 
@@ -15,7 +15,6 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 
 ## BOM
 ![BOM](IMG/jlcpcbBOM.png) 
-![BOM](IMG/aliexpressBOM.png) 
 
 ## Components (KIT)
 
@@ -28,7 +27,6 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 | M2 standoff | M2 standoff 5mm | 50 | 0,05 | 2,47 | https://www.aliexpress.com/item/1005008504707668.html |
 | M2 screw | 5mm screw | 50 | 0,03 | 1,65 | https://www.aliexpress.com/item/1005005070119421.html |
 | LED | SK6812 | 100 | 0,07 | 6,67 | https://www.aliexpress.com/item/1005005193716172.html |
-| Raspberry Pico | Raspberry Pico USB-C | 1 | 3,27 | 3,29 | https://www.aliexpress.com/item/1005006839247100.html |
 | Taxes | AliExpress tax | — | — | 4,28 | — |
 
 **Components Subtotal:** **57,33**
