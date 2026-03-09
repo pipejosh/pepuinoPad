@@ -26,9 +26,10 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 | M2 standoff | M2 standoff 5mm | 50 | 0,05 | 2,47 | https://www.aliexpress.com/item/1005008504707668.html |
 | M2 screw | 5mm screw | 50 | 0,03 | 1,65 | https://www.aliexpress.com/item/1005005070119421.html |
 | LED | SK6812 | 100 | 0,07 | 6,67 | https://www.aliexpress.com/item/1005005193716172.html |
+| Roraty encoder | ec11 | 1,85 | 1,85 | https://www.aliexpress.com/item/1005007644083514.html |
 | Taxes | AliExpress tax | — | — | 4,28 | — |
 
-**Components Subtotal:** **57,33**
+**Components Subtotal:** **59,18**
 
 ---
 
@@ -45,6 +46,6 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 
 | Description | Amount |
 |------------|--------|
-| **Grand Total** | **96,04** |
+| **Grand Total** | **97,89** |
 
 
