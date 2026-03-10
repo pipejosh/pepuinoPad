@@ -1,6 +1,6 @@
 # Pepuino Pad
 
-This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination (the brightness can only be set to 30% ish) the pepuino pad is a midi compatible launchpad to make music, this project, the shematics and the pcb are made in kicad, and the case and render are made in fusion 360 and it uses the custom made pepuino nano V1 as the main microcontroler
+This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination (the brightness can only be set to 30% ish) the pepuino pad is a midi compatible launchpad to make music, this project, the shematics and the pcb are made in kicad, and the case and render are made in fusion 360 and it uses the custom made pepuino nano V1 as the main microcontroler (microcontroller based on a rp2040 chip)
 
 ###  Shematic
 ![schematic](IMG/schematic.png) 
@@ -29,7 +29,7 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 | Roraty encoder | ec11 | 1 | 1,85 | 1,85 | https://www.aliexpress.com/item/1005007644083514.html |
 | Taxes | AliExpress tax | — | — | 4,28 | — |
 
-**Components Subtotal:** **57,18**
+**Components Subtotal:** **55,89**
 
 ---
 
@@ -37,8 +37,8 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 
 | Item | Description | Price |
 |-----|------------|-------|
-| JLCPCB | Pepuino Pad PCB | 21,84 |
-| JLCPCB Shipping | PCB shipping + taxes | 16,87 |
+| JLCPCB | Pepuino Pad PCB | 24,41 |
+| JLCPCB Shipping | PCB shipping + taxes | 18,44 |
 
 ---
 
@@ -46,6 +46,6 @@ This is the pepuino pad, a 9 by 9 midi launchpad, with per key rgb illumination 
 
 | Description | Amount |
 |------------|--------|
-| **Grand Total** | **97,89** |
+| **Grand Total** | **98.74** |
 
 
